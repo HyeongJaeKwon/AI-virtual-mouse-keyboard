@@ -2,7 +2,7 @@
 ## Opencv, Mediapipe
 </p>
 
-**MacOS Version (Window laptop's cam doesn't work)**
+**MacOS Version (My window laptop's cam doesn't work)**
 
 ## Virtual Mouse/Keyboard Control
 - Thumb + Index = **Move Mouse**
