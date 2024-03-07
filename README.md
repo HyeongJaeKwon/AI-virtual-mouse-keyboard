@@ -5,10 +5,10 @@
 **MacOS Version (Window laptop's cam doesn't work)**
 
 ## Virtual Mouse/Keyboard Control
-- Thumb + Index = Move Mouse
-- Only Index = Click
-- Index + Middle = Drag
-- ! DoubleClick doesn't work with MacOS
+- Thumb + Index = **Move Mouse**
+- Only Index = **Click**
+- Index + Middle = **Drag**
+- ! **DoubleClick** doesn't work with MacOS
 
   
 https://github.com/HyeongJaeKwon/AI-virtual-mouse-keyboard/assets/154854672/fdb1fd01-b735-49a5-bb7a-32e6ecc8d07f
